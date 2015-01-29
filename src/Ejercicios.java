@@ -37,16 +37,16 @@ public class Ejercicios {
 		return -1;
 	}
 	
-	//Devuelve el numero mayor almacenado en 'mi_lista'
-	static int getMayor(ArrayList<Integer> mi_lista)
+	//Devuelve el numero menor almacenado en 'mi_lista'
+	static int getMenor(ArrayList<Integer> mi_lista)
 	{
 		return -1;
 	}
 	
-	//Devuelve true si 'mi_lista' contiene 'str' de lo contrario devuelve false
-	static boolean existe(ArrayList<String> mi_lista, String str)
+	//Devuelve la cantidad de veces que existe 'str' (dado) en mi_lista (dado)
+	static int contar(ArrayList<String> mi_lista, String str)
 	{
-		return false;
+		return -1;
 	}
 	
 	public static void main(String[] args)
